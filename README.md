@@ -3,7 +3,7 @@ Web API
 
 Step 1
 ```
-Import Universitate.bacpac to Microsoft SQL Server Management using Import Data-tier Application
+Import Universitate.bacpac from Database folder to Microsoft SQL Server Management using Import Data-tier Application
 ```
 Step 2
 ```
@@ -14,6 +14,10 @@ Step 3
 Modify the connectionString from Controller/StudentsController with your Server Name
 ```
 Run and have fun!
+
+```
+Queries can be found in SQL_Queries
+```
 
 ```
 username = "admin"
